@@ -1,0 +1,6 @@
+*.pyc
+my_phone.py
+notes.txt
+hyperopt/*
+venv/*
+pred*.txt
