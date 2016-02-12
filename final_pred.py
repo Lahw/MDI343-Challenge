@@ -3,7 +3,7 @@ Final prediction.
 
 @author Yann Carbonne.
 
-Give 0.72038 on the public leaderboard.
+Give 0.7212 on the public leaderboard.
 """
 from preprocessing import get_preproc
 import pandas as pd
